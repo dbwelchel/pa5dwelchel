@@ -19,7 +19,7 @@ namespace pa5dwelchel
 
    public void Defend(Character defender, int incomingAtk)
     {
-        // Add logic to the defense mechanism using incomingPower
+        
           int damageBlocked = Math.Max(0, incomingAtk - defender.DefPwr);
         defender.Health = Math.Max(0, defender.Health - damageBlocked);
 

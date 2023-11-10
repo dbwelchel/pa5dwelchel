@@ -5,7 +5,7 @@ namespace pa5dwelchel
 {
     public void Attack(Character opponent)
     {
-        double typeBonus = CalculateTypeBonus(opponent);
+        double typeBonus = GetTypeBonus(opponent);
 
         // Calculate damage dealt
         int damageDealt = Math.Max(0, (int)((opponent.AtkPwr - opponent.DefPwr) * typeBonus));
@@ -19,14 +19,14 @@ namespace pa5dwelchel
 
     public void Defend(Character defender, int incomingPower)
     {
-        // Add logic to the defense mechanism using incomingPower
+        
           int damageBlocked = Math.Max(0, incomingPower - defender.DefPwr);
         defender.Health = Math.Max(0, defender.Health - damageBlocked);
         Console.WriteLine($"{defender.Name} is defending with Punch!");
         Console.WriteLine($"Defensive Power: {defender.DefPwr}, Damage Blocked: {damageBlocked}");
     }
 
-    private double CalculateTypeBonus(Character opponent)
+    private double GetTypeBonus(Character opponent)
     {
         double typeBonus = 1.0;
 
