@@ -1,0 +1,15 @@
+C:\Users\dylan\OneDrive\Desktop\Schoolwork\MIS 321\pa5dwelchel\obj\Debug\net6.0\pa5dwelchel.csproj.AssemblyReference.cache
+C:\Users\dylan\OneDrive\Desktop\Schoolwork\MIS 321\pa5dwelchel\obj\Debug\net6.0\pa5dwelchel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dylan\OneDrive\Desktop\Schoolwork\MIS 321\pa5dwelchel\obj\Debug\net6.0\pa5dwelchel.AssemblyInfoInputs.cache
+C:\Users\dylan\OneDrive\Desktop\Schoolwork\MIS 321\pa5dwelchel\obj\Debug\net6.0\pa5dwelchel.AssemblyInfo.cs
+C:\Users\dylan\OneDrive\Desktop\Schoolwork\MIS 321\pa5dwelchel\obj\Debug\net6.0\pa5dwelchel.csproj.CoreCompileInputs.cache
+C:\Users\dylan\OneDrive\Desktop\Schoolwork\MIS 321\pa5dwelchel\bin\Debug\net6.0\pa5dwelchel.exe
+C:\Users\dylan\OneDrive\Desktop\Schoolwork\MIS 321\pa5dwelchel\bin\Debug\net6.0\pa5dwelchel.deps.json
+C:\Users\dylan\OneDrive\Desktop\Schoolwork\MIS 321\pa5dwelchel\bin\Debug\net6.0\pa5dwelchel.runtimeconfig.json
+C:\Users\dylan\OneDrive\Desktop\Schoolwork\MIS 321\pa5dwelchel\bin\Debug\net6.0\pa5dwelchel.dll
+C:\Users\dylan\OneDrive\Desktop\Schoolwork\MIS 321\pa5dwelchel\bin\Debug\net6.0\pa5dwelchel.pdb
+C:\Users\dylan\OneDrive\Desktop\Schoolwork\MIS 321\pa5dwelchel\obj\Debug\net6.0\pa5dwelchel.dll
+C:\Users\dylan\OneDrive\Desktop\Schoolwork\MIS 321\pa5dwelchel\obj\Debug\net6.0\refint\pa5dwelchel.dll
+C:\Users\dylan\OneDrive\Desktop\Schoolwork\MIS 321\pa5dwelchel\obj\Debug\net6.0\pa5dwelchel.pdb
+C:\Users\dylan\OneDrive\Desktop\Schoolwork\MIS 321\pa5dwelchel\obj\Debug\net6.0\pa5dwelchel.genruntimeconfig.cache
+C:\Users\dylan\OneDrive\Desktop\Schoolwork\MIS 321\pa5dwelchel\obj\Debug\net6.0\ref\pa5dwelchel.dll
